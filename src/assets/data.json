@@ -1,0 +1,28 @@
+[
+      {
+        "id": 3,
+        "title": "Dog",
+        "image": "/assets/images/dog.jpg"
+      },
+      {
+        "id": 1,
+        "title": "Cat",
+        "image": "/assets/images/cat.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Elephant",
+        "image": "/assets/images/elephant.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Cow",
+        "image": "/assets/images/cow.png"
+      },
+      {
+        "id": 4,
+        "title": "Kangaroo",
+        "image": "/assets/images/kangaroo.jpeg"
+      }
+]
+

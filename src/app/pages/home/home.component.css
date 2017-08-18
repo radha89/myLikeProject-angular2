@@ -1,0 +1,26 @@
+.glyphicon {
+  cursor: pointer;
+}
+.container {
+  width: 800px;
+  height: 650px;
+  margin: 0 auto;
+  vertical-align: middle;
+  border: 1px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.thumbnails {
+  width: 220px;
+  height: 300px;
+  /* margin: 0 auto;
+  vertical-align: middle; */
+  border: 1px solid black;
+  margin: 10px 0;
+  padding-left: 9px;
+
+}

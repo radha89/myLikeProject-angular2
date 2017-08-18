@@ -1,0 +1,23 @@
+[
+    {
+      "id": 3,
+      "likes": []
+    },
+    {
+      "id": 5,
+      "likes": ["Peter"]
+    },
+    {
+      "id": 2,
+      "likes": ["John", "Mark"]
+    },
+    {
+      "id": 1,
+      "likes": ["Paul", "Lilly", "Alex"]
+    },
+    {
+      "id": 4,
+      "likes": ["Sarah", "Michelle", "Alex", "John"]
+    }
+]
+

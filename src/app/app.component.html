@@ -1,0 +1,27 @@
+<h4 style="text-align: right"><span class="glyphicon glyphicon-user"></span> {{ username }}</h4>
+
+<h3>
+  My Like Project
+</h3>
+<nav>
+	<a [routerLink]="['/']">
+    Home
+  </a>
+  |
+	<a [routerLink]="['/about']">
+    About
+  </a>
+  |
+	<a [routerLink]="['/contact']">
+    Contact Me
+  </a>
+</nav>
+
+<main>
+	<router-outlet></router-outlet>
+</main>
+
+
+<footer>
+  © 2017
+</footer>
