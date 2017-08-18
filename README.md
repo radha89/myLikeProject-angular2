@@ -1,4 +1,4 @@
-###About this project
+### About this project
 
 This project was built on a basic seed project that I found on
   Github: https://github.com/angular/angular2-seed
@@ -24,7 +24,7 @@ This project was built on a basic seed project that I found on
   However, I wanted to demonstrate how the like functionality works so I added a like button to take it one step further.
 
 
-##Instructions to run this project locally:
+## Instructions to run this project locally:
 
   Clone or fork this repository
   Make sure you have node.js installed version 5+
