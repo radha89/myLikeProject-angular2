@@ -1,8 +1,8 @@
 <h3>Hi, {{ username }}</h3>
 <p>Welcome to your news feed</p>
 
-<div *ngIf="contentData" class=".col-12 .col-md-8 .col-6 .col-md-4">
-  <div class="thumbnails .col-6 .col-md-4" *ngFor="let post of finalArray">
+<div *ngIf="contentData" class="container">
+  <div class="thumbnail .col-6 .col-md-4" *ngFor="let post of finalArray">
     <h5>{{ post.title }}</h5>
     <img src="{{ post.image }}">
     <div>
